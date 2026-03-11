@@ -1,7 +1,7 @@
 Allegheny County Dog License Analysis
 
 
-**CLICK HERE TO VIEW THE INTERACTIVE HEAT MAP**
+
 **[Click here to view the Interactive Heat Map]**(https://nchandran17.github.io/LifeTimeDogLicenses/Visualizations/zipcode_dog_license_density_map.html)
 
 
