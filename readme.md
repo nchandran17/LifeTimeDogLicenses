@@ -21,8 +21,11 @@ PostgreSQL - (Aggregates, Window Functions, CTE's and Subqueries and more)
 Python - data visualization through Pandas, Plotly Express, matplotlib, SQLAlchemy, JSON, seaborn
 
 Repository Structure:
-SQL_Queries - Finalized sql queries for data extraction
-python visualization - ipynb files where visualization is created
-Visualizations - .png & .html files for viewing data visualization
-Archive - previous attempts and table creation files as well as csv files
+[SQL_Queries] - Finalized sql queries for data extraction
+
+[python visualization] - ipynb files where visualization is created
+
+[Visualizations] - .png & .html files for viewing data visualization
+
+[Archive] - previous attempts and table creation files as well as csv files
 
