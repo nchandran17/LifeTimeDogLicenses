@@ -4,6 +4,11 @@ Allegheny County Dog License Analysis
 
 **[CLICK HERE TO VIEW THE INTERACTIVE HEAT MAP]**(https://nchandran17.github.io/LifeTimeDogLicenses/Visualizations/zipcode_dog_license_density_map.html)
 
+**[CLICK HERE TO VIEW THE INTERACTIVE HEAT MAP HOSTED ON AZURE]**
+<https://dogmapallegheny.z13.web.core.windows.net/>
+
+
+
 
 Project Overview:
 This project uses data from lifetime dog license owners in allegheny county over 20 years as well as 2020 annual license
